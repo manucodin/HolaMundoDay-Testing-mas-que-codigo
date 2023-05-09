@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  HolaTesting
+
+  Created by Manuel Rodriguez Sebastian on 23/4/23.
+  
+*/
+
+"users" = "Users";
+
+"phone_formated" = "Phone: %@";
+
+"new_user" = "New User";
+
+"name" = "Name";
+
+"lastName" = "Last Name";
+
+"phoneNumber" = "Phone Number";
+
+"email" = "Email";
+
+"address" = "Address";
+
+"accept" = "Accept";
+
+"error" = "Error";
+
+"success" = "Success";
+
+"user_created" = "User %@ created";
+
+"required_field_error" = "This field is required";
+
+"format_field_error" = "Invalid format field";
+
+"lenght_field_error" = "Invalid field lenght";
+
+"unexpected_error" = "Unexpected error";
+
+"user_updated" = "User %@ updated";
+
+"delete" = "Delete";
+
+"user_deleted" = "User %@ deleted";
